@@ -1,0 +1,7 @@
+#Tue Aug 16 17:57:48 GFT 2022
+base.1=C\:\\Users\\Usuario\\Desktop\\Space\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.1=classes2.dex
+base.0=C\:\\Users\\Usuario\\Desktop\\Space\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
