@@ -1,4 +1,5 @@
-Space Gallery</br>
+-Space Gallery</br>
+-Integrantes:
 -Arthur Aragão Mattei Moraes</br>
 -Victor Cavalcante Vieira</br>
 -Karlisson Brendo de Brito Ribeiro Ferreira
